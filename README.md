@@ -1,4 +1,17 @@
-- 👋 Hi, I’m @AashutoshSingh
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
 
+# Introduction
+
+Myself Aashutosh Singh Gautam and I'm Intrested in FrontEnd Development. 
+
+
+
+
+## Tech Stack
+
+**Html**
+
+**Css** 
+
+**JavaScript**
+
+**ReactJs**
